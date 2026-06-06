@@ -46,3 +46,26 @@ UltimateQRPro/
 ├── config.py            # Theme Settings, App Paths, and Global Configurations
 ├── ui_panels.py         # UI Layouts (Left Settings, Center Camera, Right History)
 └── qr_logic.py          # Backend Logic (Generation, Scanning, Sharing, and IO Operations)
+## 🚀 Getting Started
+
+### Option 1: Running from Source Code (For Developers)
+
+1. **Clone the repository:**
+```bash
+   git clone [https://github.com/YOUR_USERNAME/ultimate-qr-pro.git](https://github.com/YOUR_USERNAME/ultimate-qr-pro.git)
+   cd ultimate-qr-pro
+
+2. Install required dependencies:pip install customtkinter opencv-python qrcode pillow
+3.Run the application:
+---
+Option 2: Running the Executable App (For Users)
+No Python setup required!
+
+Head over to the Releases section.
+
+Download Ultimate-QR-Pro-v1.0.zip.
+
+Extract the ZIP file and run main.exe.
+---
+📸 Screenshots
+
