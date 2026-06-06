@@ -89,13 +89,11 @@ No Python installation required.
 ---
 
 ## 📸 Screenshots
-
+<img width="1919" height="1007" alt="Screenshot 2026-06-06 151042" src="https://github.com/user-attachments/assets/90ad93ea-ed65-4018-9986-cd7c49f9c1d1" />
 <img width="1919" height="1016" alt="Screenshot 2026-06-06 151826" src="https://github.com/user-attachments/assets/8864713c-e7dd-4585-b2ae-ef8b25922a52" />
 <img width="1404" height="1001" alt="Screenshot 2026-06-06 151555" src="https://github.com/user-attachments/assets/e8f31239-5af2-4649-af6d-0c95cf4a06ae" />
-<img width="1404" height="1001" alt="Screenshot 2026-06-06 151555" src="https://github.com/user-attachments/assets/0b238a9b-2f63-4823-99ae-bca435c098f4" />
 <img width="1177" height="1013" alt="Screenshot 2026-06-06 151532" src="https://github.com/user-attachments/assets/0e65cc4f-32d1-4739-91e4-2b1515f26e31" />
 <img width="1903" height="1000" alt="Screenshot 2026-06-06 151303" src="https://github.com/user-attachments/assets/3c69b4b6-a7c0-47f3-84c6-5d547ff0fc39" />
-<img width="1919" height="1007" alt="Screenshot 2026-06-06 151042" src="https://github.com/user-attachments/assets/90ad93ea-ed65-4018-9986-cd7c49f9c1d1" />
 
 
 
