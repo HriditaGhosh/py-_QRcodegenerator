@@ -34,39 +34,73 @@ The project is built entirely in Python using the following modules:
 * **Standard Libraries:** `json`, `csv`, `threading`, `urllib`, `webbrowser`, `winsound`
 
 ---
-
-## 📂 Project Architecture
-
-The application follows a clean, decoupled modular structure:
+## 📁 Project Structure
 
 ```text
 UltimateQRPro/
 │
-├── main.py              # Application Entry Point & Core Class Initialization
-├── config.py            # Theme Settings, App Paths, and Global Configurations
-├── ui_panels.py         # UI Layouts (Left Settings, Center Camera, Right History)
-└── qr_logic.py          # Backend Logic (Generation, Scanning, Sharing, and IO Operations)
-----
+├── main.py              # Main application source code
+├── qr_pro_data.json     # Scan history database (auto-generated)
+├── requirements.txt     # Project dependencies
+├── screenshots/         # Application screenshots
+│   ├── home.png
+│   ├── scanner.png
+│   └── generator.png
+│
+└── README.md
+```
+
+---
+
 ## 🚀 Getting Started
 
 ### Option 1: Running from Source Code (For Developers)
 
-1. **Clone the repository:**
+#### 1. Clone the repository
+
 ```bash
-   git clone [https://github.com/YOUR_USERNAME/ultimate-qr-pro.git](https://github.com/YOUR_USERNAME/ultimate-qr-pro.git)
-   cd ultimate-qr-pro
+git clone https://github.com/YOUR_USERNAME/UltimateQRPro.git
+cd UltimateQRPro
+```
 
-2. Install required dependencies:pip install customtkinter opencv-python qrcode pillow
-3.Run the application:
+#### 2. Install required dependencies
+
+```bash
+pip install customtkinter opencv-python qrcode pillow
+```
+
+#### 3. Run the application
+
+```bash
+python main.py
+```
+
 ---
-Option 2: Running the Executable App (For Users)
-No Python setup required!
 
-Head over to the Releases section.
+### Option 2: Running the Executable App (For Users)
 
-Download Ultimate-QR-Pro-v1.0.zip.
+No Python installation required.
 
-Extract the ZIP file and run main.exe.
+1. Go to the **Releases** section.
+2. Download **Ultimate-QR-Pro-v1.0.zip**.
+3. Extract the ZIP file.
+4. Run **main.exe**.
+
 ---
-📸 Screenshots
+
+## 📸 Screenshots
+
+<img width="1919" height="1016" alt="Screenshot 2026-06-06 151826" src="https://github.com/user-attachments/assets/8864713c-e7dd-4585-b2ae-ef8b25922a52" />
+<img width="1404" height="1001" alt="Screenshot 2026-06-06 151555" src="https://github.com/user-attachments/assets/e8f31239-5af2-4649-af6d-0c95cf4a06ae" />
+<img width="1404" height="1001" alt="Screenshot 2026-06-06 151555" src="https://github.com/user-attachments/assets/0b238a9b-2f63-4823-99ae-bca435c098f4" />
+<img width="1177" height="1013" alt="Screenshot 2026-06-06 151532" src="https://github.com/user-attachments/assets/0e65cc4f-32d1-4739-91e4-2b1515f26e31" />
+<img width="1903" height="1000" alt="Screenshot 2026-06-06 151303" src="https://github.com/user-attachments/assets/3c69b4b6-a7c0-47f3-84c6-5d547ff0fc39" />
+<img width="1919" height="1007" alt="Screenshot 2026-06-06 151042" src="https://github.com/user-attachments/assets/90ad93ea-ed65-4018-9986-cd7c49f9c1d1" />
+
+
+
+
+
+
+
 
