@@ -46,6 +46,7 @@ UltimateQRPro/
 ├── config.py            # Theme Settings, App Paths, and Global Configurations
 ├── ui_panels.py         # UI Layouts (Left Settings, Center Camera, Right History)
 └── qr_logic.py          # Backend Logic (Generation, Scanning, Sharing, and IO Operations)
+----
 ## 🚀 Getting Started
 
 ### Option 1: Running from Source Code (For Developers)
